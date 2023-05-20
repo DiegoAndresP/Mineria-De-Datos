@@ -13,4 +13,5 @@ Las practicas realizadas fueron:
 6. Clasificacion de Datos
 7. Clustering
 8. Forecasting
+9. Analsis de Texto
 
